@@ -4,6 +4,8 @@ A "pretty much greyscale" theme for Visual Studio Code. Strings are dark yellow.
 
 This theme is generated with https://github.com/Tyriar/vscode-theme-generator .
 
+Get it from [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=claudiodangelis.dun-theme).
+
 ## Screenshots
 
 ### Go

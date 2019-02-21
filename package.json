@@ -7,6 +7,10 @@
   "license": "MIT",
   "scripts": {
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/claudiodangelis/dun-vscode-theme.git"
+  },
   "engines": {
     "vscode": "^1.11.0"
   },
