@@ -8,12 +8,12 @@ This theme is generated with https://github.com/Tyriar/vscode-theme-generator .
 
 ### Go
 
-![screenshot](./go.png)
+![screenshot](https://raw.githubusercontent.com/claudiodangelis/dun-vscode-theme/master/go.png)
 
 
 ### JavaScript
 
-![screenshot](./js.png)
+![screenshot](https://raw.githubusercontent.com/claudiodangelis/dun-vscode-theme/master/js.png)
 
 
 ## Credits
