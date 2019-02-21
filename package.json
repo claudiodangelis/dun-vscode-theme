@@ -1,7 +1,7 @@
 {
   "name": "dun-theme",
   "displayName": "Dün",
-  "publisher": "Claudio d'Angelis <claudiodangelis@gmail.com>",
+  "publisher": "claudiodangelis",
   "description": "A generated theme for Visual Studio Code",
   "version": "0.0.1",
   "license": "MIT",
