@@ -1,0 +1,25 @@
+{
+  "name": "dun-theme",
+  "displayName": "Dün",
+  "publisher": "Claudio d'Angelis <claudiodangelis@gmail.com>",
+  "description": "A generated theme for Visual Studio Code",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+  },
+  "engines": {
+    "vscode": "^1.11.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dün Dark",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  }
+}
